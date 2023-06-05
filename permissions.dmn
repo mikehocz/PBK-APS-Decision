@@ -16,7 +16,7 @@
     <dmn:informationRequirement id="_DA6EB9F6-B7C1-4E01-93AB-3E8371F76F2A">
       <dmn:requiredInput href="#_C83EE313-0610-4FCC-84DB-B820C4DC7569"/>
     </dmn:informationRequirement>
-    <dmn:decisionTable id="_411C77D7-0581-4EC7-9EAF-640E5C39FE30" hitPolicy="RULE ORDER" preferredOrientation="Rule-as-Row">
+    <dmn:decisionTable id="_411C77D7-0581-4EC7-9EAF-640E5C39FE30" hitPolicy="FIRST" preferredOrientation="Rule-as-Row">
       <dmn:input id="_0D91AA5E-BB18-4435-B543-158EF37AC61A">
         <dmn:inputExpression typeRef="boolean">
           <dmn:text>PFSCertificationFlag</dmn:text>
