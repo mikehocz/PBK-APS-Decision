@@ -19,17 +19,17 @@
     <dmn:decisionTable id="_411C77D7-0581-4EC7-9EAF-640E5C39FE30" hitPolicy="FIRST" preferredOrientation="Rule-as-Row">
       <dmn:input id="_0D91AA5E-BB18-4435-B543-158EF37AC61A">
         <dmn:inputExpression id="_27CBE256-0DCD-4157-BBCD-70A83A32F879" typeRef="boolean">
-          <dmn:text>PFSCertificationFlag</dmn:text>
+          <dmn:text>PFSCertification</dmn:text>
         </dmn:inputExpression>
       </dmn:input>
       <dmn:input id="_63091DED-25F9-42FD-B7B1-69C22EE3A4B4">
         <dmn:inputExpression id="_90D9173C-24F4-419F-BFDD-8D8EBC3A768B" typeRef="boolean">
-          <dmn:text>CNBCertificationFlag</dmn:text>
+          <dmn:text>CNBCertification</dmn:text>
         </dmn:inputExpression>
       </dmn:input>
       <dmn:input id="_9283A73E-9548-4A0F-93F8-0DCD3B91C680">
         <dmn:inputExpression id="_59AD96BE-1C85-48B3-A0B0-668F5BC9A9D9" typeRef="boolean">
-          <dmn:text>ClientsRightsFlag</dmn:text>
+          <dmn:text>ClientsRights</dmn:text>
         </dmn:inputExpression>
       </dmn:input>
       <dmn:output id="_78D0B5AF-12D1-49FC-AD9D-4A5E71EEB58B" name="Result" typeRef="boolean"/>
