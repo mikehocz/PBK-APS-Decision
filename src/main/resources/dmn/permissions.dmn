@@ -68,8 +68,8 @@
         <dmn:outputEntry id="_B3933D08-E7A8-4EFE-A0DB-D16891755B31">
           <dmn:text>false</dmn:text>
         </dmn:outputEntry>
-        <dmn:outputEntry id="_FD4AAE20-B9E7-455D-87AD-95253A64BEB6">
-          <dmn:text>“Nejste oprávněn/a zahájit požadovaný proces s vybraným klientem”</dmn:text>
+        <dmn:outputEntry id="_3F735763-4F46-4540-9C53-34FA1847C115">
+          <dmn:text>Nejste oprávněn/a zahájit požadovaný proces s vybraným klientem</dmn:text>
         </dmn:outputEntry>
         <dmn:annotationEntry>
           <dmn:text/>
@@ -88,8 +88,8 @@
         <dmn:outputEntry id="_59D3805D-1AE5-4659-92FA-956C864F450E">
           <dmn:text>false</dmn:text>
         </dmn:outputEntry>
-        <dmn:outputEntry id="_14009A23-55C5-43E1-BA17-164F7B43BAE5">
-          <dmn:text>“Nelze zahájit požadovaný proces”</dmn:text>
+        <dmn:outputEntry id="_41477CC8-AF0B-4E0C-A131-543853D428F8">
+          <dmn:text>Nelze zahájit požadovaný proces</dmn:text>
         </dmn:outputEntry>
         <dmn:annotationEntry>
           <dmn:text/>
@@ -108,8 +108,8 @@
         <dmn:outputEntry id="_14B163FE-47E5-46C0-AF3D-29E9529D0319">
           <dmn:text>false</dmn:text>
         </dmn:outputEntry>
-        <dmn:outputEntry id="_15F05ED5-09E9-414F-8470-2B3A7880FC6E">
-          <dmn:text>“Nelze zahájit požadovaný proces”</dmn:text>
+        <dmn:outputEntry id="_7888DA3F-442D-4F73-8C3D-980298025BC8">
+          <dmn:text>Nelze zahájit požadovaný proces</dmn:text>
         </dmn:outputEntry>
         <dmn:annotationEntry>
           <dmn:text/>
